@@ -1,0 +1,10 @@
+{
+  "name": "webbook",
+  "version": "0.1.0",
+  "description": "webbook apiDoc",
+  "title": "webbook apiDoc",
+  "url": "https://book.wilbur.club",
+  "template": {
+    "forceLanguage": "zh_cn"
+  }
+}
